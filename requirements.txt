@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit>=1.31.0
+pandas>=2.1.0
+numpy>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+scikit-learn>=1.5.0
+minisom>=2.3.1
+
+# Ollama integration (ONLY CHANGE from original)
+ollama>=0.4.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+langgraph>=0.0.20
+
+# File handling
+openpyxl>=3.1.2
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+tenacity>=8.2.3
+
+# Time series analysis
+statsmodels>=0.14.0
+scipy>=1.11.0

@@ -1,0 +1,72 @@
+2026-01-18 03:29:08 - viz_tool - INFO - main:32 - ============================================================
+2026-01-18 03:29:08 - viz_tool - INFO - main:33 - AI-Powered Visualization & Insights Tool - Ollama Local
+2026-01-18 03:29:08 - viz_tool - INFO - main:34 - ============================================================
+2026-01-18 03:29:08 - viz_tool - INFO - main:37 - Checking Ollama service at http://localhost:11434...
+2026-01-18 03:29:10 - viz_tool - INFO - main:55 - Configuration loaded
+2026-01-18 03:29:10 - viz_tool - INFO - main:56 - Ollama URL: http://localhost:11434
+2026-01-18 03:29:10 - viz_tool - INFO - main:57 - Model: llama3.2-vision:11b
+2026-01-18 03:29:10 - viz_tool - INFO - main:58 - Cache enabled: True
+2026-01-18 03:29:10 - viz_tool - INFO - main:59 - No rate limits - running locally!
+2026-01-18 03:29:10 - viz_tool - INFO - main:64 - Launching Streamlit app...
+2026-01-18 03:29:10 - viz_tool - INFO - main:65 - App location: D:\Professional\Apps\VizyAI-Local\streamlit_app\app.py
+2026-01-18 03:31:05 - viz_tool - INFO - main:76 - 
+Application stopped by user
+2026-01-18 03:31:16 - viz_tool - INFO - main:32 - ============================================================
+2026-01-18 03:31:16 - viz_tool - INFO - main:33 - AI-Powered Visualization & Insights Tool - Ollama Local
+2026-01-18 03:31:16 - viz_tool - INFO - main:34 - ============================================================
+2026-01-18 03:31:16 - viz_tool - INFO - main:37 - Checking Ollama service at http://localhost:11434...
+2026-01-18 03:31:18 - viz_tool - INFO - main:55 - Configuration loaded
+2026-01-18 03:31:18 - viz_tool - INFO - main:56 - Ollama URL: http://localhost:11434
+2026-01-18 03:31:18 - viz_tool - INFO - main:57 - Model: llama3.2-vision:11b
+2026-01-18 03:31:18 - viz_tool - INFO - main:58 - Cache enabled: True
+2026-01-18 03:31:18 - viz_tool - INFO - main:59 - No rate limits - running locally!
+2026-01-18 03:31:18 - viz_tool - INFO - main:64 - Launching Streamlit app...
+2026-01-18 03:31:18 - viz_tool - INFO - main:65 - App location: D:\Professional\Apps\VizyAI-Local\streamlit_app\app.py
+2026-01-18 03:35:07 - viz_tool - INFO - main:76 - 
+Application stopped by user
+2026-01-18 03:35:09 - viz_tool - INFO - main:32 - ============================================================
+2026-01-18 03:35:09 - viz_tool - INFO - main:33 - AI-Powered Visualization & Insights Tool - Ollama Local
+2026-01-18 03:35:09 - viz_tool - INFO - main:34 - ============================================================
+2026-01-18 03:35:09 - viz_tool - INFO - main:37 - Checking Ollama service at http://localhost:11434...
+2026-01-18 03:35:11 - viz_tool - INFO - main:55 - Configuration loaded
+2026-01-18 03:35:11 - viz_tool - INFO - main:56 - Ollama URL: http://localhost:11434
+2026-01-18 03:35:11 - viz_tool - INFO - main:57 - Model: llama3.2-vision:11b
+2026-01-18 03:35:11 - viz_tool - INFO - main:58 - Cache enabled: True
+2026-01-18 03:35:11 - viz_tool - INFO - main:59 - No rate limits - running locally!
+2026-01-18 03:35:11 - viz_tool - INFO - main:64 - Launching Streamlit app...
+2026-01-18 03:35:11 - viz_tool - INFO - main:65 - App location: D:\Professional\Apps\VizyAI-Local\streamlit_app\app.py
+2026-01-18 04:12:16 - viz_tool - INFO - main:32 - ============================================================
+2026-01-18 04:12:16 - viz_tool - INFO - main:33 - AI-Powered Visualization & Insights Tool - Ollama Local
+2026-01-18 04:12:16 - viz_tool - INFO - main:34 - ============================================================
+2026-01-18 04:12:16 - viz_tool - INFO - main:37 - Checking Ollama service at http://localhost:11434...
+2026-01-18 04:12:18 - viz_tool - INFO - main:55 - Configuration loaded
+2026-01-18 04:12:18 - viz_tool - INFO - main:56 - Ollama URL: http://localhost:11434
+2026-01-18 04:12:18 - viz_tool - INFO - main:57 - Model: llama3.2-vision:11b
+2026-01-18 04:12:18 - viz_tool - INFO - main:58 - Cache enabled: True
+2026-01-18 04:12:18 - viz_tool - INFO - main:59 - No rate limits - running locally!
+2026-01-18 04:12:18 - viz_tool - INFO - main:64 - Launching Streamlit app...
+2026-01-18 04:12:18 - viz_tool - INFO - main:65 - App location: D:\Professional\Apps\VizyAI-Local\streamlit_app\app.py
+2026-01-18 05:59:49 - viz_tool - INFO - main:76 - 
+Application stopped by user
+2026-01-18 06:01:52 - viz_tool - INFO - main:32 - ============================================================
+2026-01-18 06:01:52 - viz_tool - INFO - main:33 - AI-Powered Visualization & Insights Tool - Ollama Local
+2026-01-18 06:01:52 - viz_tool - INFO - main:34 - ============================================================
+2026-01-18 06:01:52 - viz_tool - INFO - main:37 - Checking Ollama service at http://localhost:11434...
+2026-01-18 06:01:54 - viz_tool - INFO - main:55 - Configuration loaded
+2026-01-18 06:01:54 - viz_tool - INFO - main:56 - Ollama URL: http://localhost:11434
+2026-01-18 06:01:54 - viz_tool - INFO - main:57 - Model: llama3.2-vision:11b
+2026-01-18 06:01:54 - viz_tool - INFO - main:58 - Cache enabled: True
+2026-01-18 06:01:54 - viz_tool - INFO - main:59 - No rate limits - running locally!
+2026-01-18 06:01:54 - viz_tool - INFO - main:64 - Launching Streamlit app...
+2026-01-18 06:01:54 - viz_tool - INFO - main:65 - App location: D:\Professional\Apps\VizyAI-Local\streamlit_app\app.py
+2026-01-18 06:05:39 - viz_tool - INFO - main:32 - ============================================================
+2026-01-18 06:05:39 - viz_tool - INFO - main:33 - AI-Powered Visualization & Insights Tool - Ollama Local
+2026-01-18 06:05:39 - viz_tool - INFO - main:34 - ============================================================
+2026-01-18 06:05:39 - viz_tool - INFO - main:37 - Checking Ollama service at http://localhost:11434...
+2026-01-18 06:05:41 - viz_tool - INFO - main:55 - Configuration loaded
+2026-01-18 06:05:41 - viz_tool - INFO - main:56 - Ollama URL: http://localhost:11434
+2026-01-18 06:05:41 - viz_tool - INFO - main:57 - Model: llama3.2-vision:11b
+2026-01-18 06:05:41 - viz_tool - INFO - main:58 - Cache enabled: True
+2026-01-18 06:05:41 - viz_tool - INFO - main:59 - No rate limits - running locally!
+2026-01-18 06:05:41 - viz_tool - INFO - main:64 - Launching Streamlit app...
+2026-01-18 06:05:41 - viz_tool - INFO - main:65 - App location: D:\Professional\Apps\VizyAI-Local\streamlit_app\app.py
